@@ -1,2 +1,2 @@
-# bastille-nomad-drier
+# bastille-nomad-driver
 Nomad driver for BastilleBSD
